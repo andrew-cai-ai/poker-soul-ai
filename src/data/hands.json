@@ -1,0 +1,26 @@
+{
+  "lucky": [
+    { "hand": "AKs", "reason": "Strong in 3bet pots" },
+    { "hand": "99", "reason": "Flexible hand" },
+    { "hand": "QJs", "reason": "Powerful in position" },
+    { "hand": "AA", "reason": "Build the pot preflop" },
+    { "hand": "KK", "reason": "Take value early" },
+    { "hand": "AQs", "reason": "Clear equity in position" },
+    { "hand": "JTs", "reason": "Suited connector with position" },
+    { "hand": "TT", "reason": "Set-mine or jam short" },
+    { "hand": "KQs", "reason": "High-card pressure hand" },
+    { "hand": "QQ", "reason": "Top of range on most boards" }
+  ],
+  "dangerous": [
+    { "hand": "KTo", "reason": "Frequently dominated" },
+    { "hand": "A7o", "reason": "Looks stronger than reality" },
+    { "hand": "Q9o", "reason": "Easy to overplay" },
+    { "hand": "72o", "reason": "No equity, no position" },
+    { "hand": "J6o", "reason": "Kicker problems add up" },
+    { "hand": "A2o", "reason": "Small ace bleeds chips" },
+    { "hand": "94o", "reason": "Marginal at best" },
+    { "hand": "K7o", "reason": "Dominated by stronger kings" },
+    { "hand": "T5o", "reason": "Poor connectivity" },
+    { "hand": "Q3o", "reason": "Reverse implied odds" }
+  ]
+}

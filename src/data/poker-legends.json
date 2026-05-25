@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Phil Ivey",
+    "nameZh": "Phil Ivey",
+    "reasons": [
+      "同样的耐心和压迫感。只是筹码量不同。",
+      "你在等 spot，他也在等——然后一手定乾坤。",
+      "不动声色，直到河牌才让人后悔。"
+    ]
+  },
+  {
+    "name": "Daniel Negreanu",
+    "nameZh": "Daniel Negreanu",
+    "reasons": [
+      "读牌像聊天，决策像刀。",
+      "你也在用桌况说话，而不只是手牌。",
+      "对手以为你在闲聊，其实你在记账。"
+    ]
+  },
+  {
+    "name": "Tom Dwan",
+    "nameZh": "Tom Dwan",
+    "reasons": [
+      "敢在边缘 spot 开火，也敢在河牌收池。",
+      "你的侵略里有一种「算过了才敢疯」的冷静。",
+      "桌况因你而变，对手因你而错。"
+    ]
+  },
+  {
+    "name": "Doyle Brunson",
+    "nameZh": "Doyle Brunson",
+    "reasons": [
+      "深筹码里的老江湖气场。",
+      "你不急，时间站在有耐心的人这边。",
+      "用压力磨掉对手的纪律。"
+    ]
+  },
+  {
+    "name": "Stu Ungar",
+    "nameZh": "Stu Ungar",
+    "reasons": [
+      "天赋型读牌，出手精准得不像在赌。",
+      "你也能在混乱里看见最干净的那条线。",
+      "对手还在算赔率，你已经算完了人心。"
+    ]
+  },
+  {
+    "name": "Annie Duke",
+    "nameZh": "Annie Duke",
+    "reasons": [
+      "用决策质量赢，而不是用一手牌赢。",
+      "你在用概率思考，而不是用情绪下注。",
+      "长期 EV 比短期结果更重要——你也懂这个。"
+    ]
+  }
+]

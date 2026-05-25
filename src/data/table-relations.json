@@ -1,0 +1,110 @@
+{
+  "rivals": {
+    "cold_reaper": {
+      "emoji": "🐢",
+      "nameZh": "乌龟守门员",
+      "nameEn": "Nit",
+      "reason": "你的节奏喜欢施压，他的节奏喜欢拖慢游戏。",
+      "warning": "不要为了证明自己而扩大底池。"
+    },
+    "mad_dog": {
+      "emoji": "🎣",
+      "nameZh": "翻牌炼金师",
+      "nameEn": "Calling Station",
+      "reason": "你想用压力逼他犯错，他只想把你拖进摊牌。",
+      "warning": "别对跟注站过度诈唬，价值才是王道。"
+    },
+    "turtle_keeper": {
+      "emoji": "♦",
+      "nameZh": "疯狗压迫者",
+      "nameEn": "LAG",
+      "reason": "你等好牌，他用宽范围偷走你的盲注和主动权。",
+      "warning": "别因为被骚扰而被迫用边缘牌入池。"
+    },
+    "river_hunter": {
+      "emoji": "♠",
+      "nameZh": "冷面收割者",
+      "nameEn": "TAG",
+      "reason": "你等河牌，他在前街就把底池建到你难受。",
+      "warning": "别为了看河牌而支付不合理的转牌费用。"
+    },
+    "fox_schemer": {
+      "emoji": "⚡",
+      "nameZh": "上头修罗",
+      "nameEn": "Aggro Maniac",
+      "reason": "你靠节奏变化，他用无脑压力打乱你的计划。",
+      "warning": "别在没位置时跟修罗对飙。"
+    },
+    "tilt_asura": {
+      "emoji": "♣",
+      "nameZh": "乌龟守门员",
+      "nameEn": "Nit",
+      "reason": "你疯狂施压，他缩成一团让你打不动。",
+      "warning": "别在石头人身上浪费诈唬筹码。"
+    },
+    "flop_alchemist": {
+      "emoji": "🦊",
+      "nameZh": "狐狸设局师",
+      "nameEn": "Fox TAG",
+      "reason": "你暴露牌力，他用被动线路把你骗进错误跟注。",
+      "warning": "别用情绪跟注去验证他的慢打。"
+    },
+    "silent_reader": {
+      "emoji": "♦",
+      "nameZh": "疯狗压迫者",
+      "nameEn": "LAG",
+      "reason": "你想读清他，他用压迫不给你思考时间。",
+      "warning": "别在节奏被带走时硬跟。"
+    }
+  },
+  "allies": {
+    "cold_reaper": {
+      "emoji": "🦊",
+      "nameZh": "狐狸设局师",
+      "nameEn": "Fox TAG",
+      "reason": "你负责施压，他负责在关键街收割价值。"
+    },
+    "mad_dog": {
+      "emoji": "♦",
+      "nameZh": "疯狗压迫者",
+      "nameEn": "LAG",
+      "reason": "你制造混乱，他放大压力，桌况一起变快。"
+    },
+    "turtle_keeper": {
+      "emoji": "♠",
+      "nameZh": "冷面收割者",
+      "nameEn": "TAG",
+      "reason": "你守池，他收割，波动被压到最低。"
+    },
+    "river_hunter": {
+      "emoji": "♦",
+      "nameZh": "疯狗压迫者",
+      "nameEn": "LAG",
+      "reason": "他前街建池，你河牌收刀，分工清楚。"
+    },
+    "fox_schemer": {
+      "emoji": "♠",
+      "nameZh": "冷面收割者",
+      "nameEn": "TAG",
+      "reason": "你设局，他收尾，对手范围越读越窄。"
+    },
+    "tilt_asura": {
+      "emoji": "♦",
+      "nameZh": "疯狗压迫者",
+      "nameEn": "LAG",
+      "reason": "你负责开火，他负责跟注站最怕的持续压力。"
+    },
+    "flop_alchemist": {
+      "emoji": "♥",
+      "nameZh": "河牌猎人",
+      "nameEn": "River Hunter",
+      "reason": "你炼听牌，他河牌定局，后街合力最大。"
+    },
+    "silent_reader": {
+      "emoji": "🦊",
+      "nameZh": "狐狸设局师",
+      "nameEn": "Fox TAG",
+      "reason": "你读桌，他设线，对手最难猜的是你们俩。"
+    }
+  }
+}

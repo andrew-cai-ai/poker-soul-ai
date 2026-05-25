@@ -1,0 +1,18 @@
+[
+  { "type": "INTJ", "pokerTendency": "冷面战略家，偏爱算筹与后发制人。" },
+  { "type": "INTP", "pokerTendency": "范围理论派，分析强，偶尔行动偏慢。" },
+  { "type": "ENTJ", "pokerTendency": "桌况指挥官，侵略性强，目标明确。" },
+  { "type": "ENTP", "pokerTendency": "多变施压者，诈唬与价值切换快。" },
+  { "type": "INFJ", "pokerTendency": "读牌型，擅长抓对手漏洞。" },
+  { "type": "INFP", "pokerTendency": "情绪敏感，上头时侵略性易变形。" },
+  { "type": "ENFJ", "pokerTendency": "动态读桌，随桌况实时调整。" },
+  { "type": "ENFP", "pokerTendency": "自信时偏松凶，波动大、上限高。" },
+  { "type": "ISTJ", "pokerTendency": "纪律型紧凶，翻前执行严格。" },
+  { "type": "ISFJ", "pokerTendency": "稳健跟注，强牌价值好，边缘牌偏紧。" },
+  { "type": "ESTJ", "pokerTendency": "标准线玩家，提前规划筹码与街道。" },
+  { "type": "ESFJ", "pokerTendency": "桌况适应者，对上被动桌易盈利。" },
+  { "type": "ISTP", "pokerTendency": "冷静收割，河牌与摊牌决策准。" },
+  { "type": "ISFP", "pokerTendency": "感觉流，随桌况微调侵略性。" },
+  { "type": "ESTP", "pokerTendency": "行动派松凶，短码威胁大。" },
+  { "type": "ESFP", "pokerTendency": "情绪驱动侵略，冷热起伏明显。" }
+]

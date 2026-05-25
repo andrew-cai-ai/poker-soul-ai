@@ -1,0 +1,32 @@
+[
+  {
+    "id": "heater",
+    "name": "手感火热模式",
+    "description": "你能感觉到规律，也愿意相信自己的直觉。",
+    "danger": "自信很容易滑成过度自信。"
+  },
+  {
+    "id": "bad_beat_recovery",
+    "name": "爆冷恢复模式",
+    "description": "你还在背着上一场的亏损。",
+    "danger": "别让一手牌去填另一手牌的坑。"
+  },
+  {
+    "id": "silent_grind",
+    "name": "沉默磨工模式",
+    "description": "今天不会有太多戏剧性。",
+    "danger": "无聊最容易催生多余动作。"
+  },
+  {
+    "id": "rush",
+    "name": "急躁冲刺模式",
+    "description": "你的出手速度比读牌还快。",
+    "danger": "河牌决策前务必停一拍。"
+  },
+  {
+    "id": "hunter",
+    "name": "猎杀模式",
+    "description": "弱手今天更容易过度投入。",
+    "danger": "别因为顺风就变贪婪。"
+  }
+]

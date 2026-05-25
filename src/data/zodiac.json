@@ -1,0 +1,14 @@
+[
+  { "id": "aries", "signEn": "Aries", "signZh": "白羊座", "monthStart": 3, "dayStart": 21, "monthEnd": 4, "dayEnd": 19 },
+  { "id": "taurus", "signEn": "Taurus", "signZh": "金牛座", "monthStart": 4, "dayStart": 20, "monthEnd": 5, "dayEnd": 20 },
+  { "id": "gemini", "signEn": "Gemini", "signZh": "双子座", "monthStart": 5, "dayStart": 21, "monthEnd": 6, "dayEnd": 21 },
+  { "id": "cancer", "signEn": "Cancer", "signZh": "巨蟹座", "monthStart": 6, "dayStart": 22, "monthEnd": 7, "dayEnd": 22 },
+  { "id": "leo", "signEn": "Leo", "signZh": "狮子座", "monthStart": 7, "dayStart": 23, "monthEnd": 8, "dayEnd": 22 },
+  { "id": "virgo", "signEn": "Virgo", "signZh": "处女座", "monthStart": 8, "dayStart": 23, "monthEnd": 9, "dayEnd": 22 },
+  { "id": "libra", "signEn": "Libra", "signZh": "天秤座", "monthStart": 9, "dayStart": 23, "monthEnd": 10, "dayEnd": 23 },
+  { "id": "scorpio", "signEn": "Scorpio", "signZh": "天蝎座", "monthStart": 10, "dayStart": 24, "monthEnd": 11, "dayEnd": 22 },
+  { "id": "sagittarius", "signEn": "Sagittarius", "signZh": "射手座", "monthStart": 11, "dayStart": 23, "monthEnd": 12, "dayEnd": 21 },
+  { "id": "capricorn", "signEn": "Capricorn", "signZh": "摩羯座", "monthStart": 12, "dayStart": 22, "monthEnd": 1, "dayEnd": 19 },
+  { "id": "aquarius", "signEn": "Aquarius", "signZh": "水瓶座", "monthStart": 1, "dayStart": 20, "monthEnd": 2, "dayEnd": 18 },
+  { "id": "pisces", "signEn": "Pisces", "signZh": "双鱼座", "monthStart": 2, "dayStart": 19, "monthEnd": 3, "dayEnd": 20 }
+]

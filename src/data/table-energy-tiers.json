@@ -1,0 +1,32 @@
+[
+  {
+    "min": 90,
+    "emoji": "🔥",
+    "label": "天命局",
+    "explanation": "今天容易进入顺势状态"
+  },
+  {
+    "min": 75,
+    "emoji": "⚡",
+    "label": "收割局",
+    "explanation": "今天更容易发现对手犯错机会"
+  },
+  {
+    "min": 60,
+    "emoji": "🌙",
+    "label": "蓄势局",
+    "explanation": "适合等待高质量机会"
+  },
+  {
+    "min": 45,
+    "emoji": "👁",
+    "label": "观察局",
+    "explanation": "多看少动"
+  },
+  {
+    "min": 0,
+    "emoji": "🛡",
+    "label": "止损局",
+    "explanation": "控制波动"
+  }
+]

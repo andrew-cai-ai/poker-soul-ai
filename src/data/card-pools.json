@@ -1,0 +1,41 @@
+{
+  "cold_reaper": [
+    { "id": "fold", "nameZh": "弃牌", "quoteLine1": "放手不是输", "quoteLine2": "省下的筹码，是下一手的底气" },
+    { "id": "value_bet", "nameZh": "价值下注", "quoteLine1": "强牌不需要炫耀", "quoteLine2": "在对手能支付时下注" },
+    { "id": "patience", "nameZh": "等待", "quoteLine1": "最好的进攻有时是沉默", "quoteLine2": "你知道结果，不必先说" }
+  ],
+  "mad_dog": [
+    { "id": "pressure", "nameZh": "压迫", "quoteLine1": "你不打好牌", "quoteLine2": "你打让全桌不舒服的氛围" },
+    { "id": "steal", "nameZh": "偷盲", "quoteLine1": "位置就是武器", "quoteLine2": "抢得到的才是你的" },
+    { "id": "chaos", "nameZh": "乱局", "quoteLine1": "桌况因你而变", "quoteLine2": "对手因你而错" }
+  ],
+  "turtle_keeper": [
+    { "id": "fold", "nameZh": "弃牌", "quoteLine1": "你不是怕输", "quoteLine2": "你在等一个不会输的局" },
+    { "id": "wait", "nameZh": "守城", "quoteLine1": "铁闸不开", "quoteLine2": "直到 spot 自己走过来" }
+  ],
+  "river_hunter": [
+    { "id": "river", "nameZh": "河牌", "quoteLine1": "别人在前三条街打牌", "quoteLine2": "你在河牌打牌" },
+    { "id": "final_street", "nameZh": "终局", "quoteLine1": "最后一刀才决定输赢", "quoteLine2": "前街只是布局" }
+  ],
+  "fox_schemer": [
+    { "id": "trap", "nameZh": "设局", "quoteLine1": "你出的每条线都是谎言", "quoteLine2": "直到它不是" },
+    { "id": "slow_play", "nameZh": "慢打", "quoteLine1": "先忍，再出手", "quoteLine2": "陷阱只在对手觉得你弱时才成立" }
+  ],
+  "tilt_asura": [
+    { "id": "fire", "nameZh": "业火", "quoteLine1": "你不是在打牌", "quoteLine2": "你在打一口气" },
+    { "id": "pressure", "nameZh": "施压", "quoteLine1": "燃烧是你的语言", "quoteLine2": "别对每个人都会说" }
+  ],
+  "flop_alchemist": [
+    { "id": "draw", "nameZh": "听牌", "quoteLine1": "废牌可以炼成金", "quoteLine2": "或者归零——你接受两种结局" },
+    { "id": "call", "nameZh": "跟注", "quoteLine1": "下一张牌会回答问题", "quoteLine2": "不是每手都值得等" }
+  ],
+  "silent_reader": [
+    { "id": "read", "nameZh": "读心", "quoteLine1": "你坐下来不是为了打牌", "quoteLine2": "你是为了看穿每个人" },
+    { "id": "observe", "nameZh": "观察", "quoteLine1": "桌况比手牌更响", "quoteLine2": "出手少，但出手准" }
+  ],
+  "random": [
+    { "id": "fold", "nameZh": "弃牌", "quoteLine1": "放手不是输", "quoteLine2": "省下的筹码，是下一手的底气" },
+    { "id": "river", "nameZh": "河牌", "quoteLine1": "赢，要靠纪律", "quoteLine2": "别让一手爆冷改写你整晚的节奏" },
+    { "id": "patience", "nameZh": "等待", "quoteLine1": "多看少动", "quoteLine2": "高质量 spot 值得等" }
+  ]
+}

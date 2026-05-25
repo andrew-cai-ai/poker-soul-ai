@@ -1,0 +1,58 @@
+[
+  {
+    "id": "river",
+    "nameEn": "The River Card",
+    "nameZh": "河牌",
+    "quoteLine1": "赢，要靠纪律。",
+    "quoteLine2": "别让一手爆冷改写你整晚的节奏。"
+  },
+  {
+    "id": "blind_steal",
+    "nameEn": "The Blind Steal",
+    "nameZh": "偷盲",
+    "quoteLine1": "位置就是一切。",
+    "quoteLine2": "拿该拿的，别硬抢没有的。"
+  },
+  {
+    "id": "check_raise",
+    "nameEn": "The Check-Raise",
+    "nameZh": "过牌加注",
+    "quoteLine1": "先忍，再出手。",
+    "quoteLine2": "陷阱只有在他们觉得你弱的时候才成立。"
+  },
+  {
+    "id": "cold_call",
+    "nameEn": "The Cold Call",
+    "nameZh": "冷跟",
+    "quoteLine1": "算清隐含赔率。",
+    "quoteLine2": "数学不支持时，跟注只是幻想。"
+  },
+  {
+    "id": "slow_play",
+    "nameEn": "The Slow Play",
+    "nameZh": "慢打",
+    "quoteLine1": "藏住牌力，别浪费牌力。",
+    "quoteLine2": "让他们追上来——然后收池。"
+  },
+  {
+    "id": "three_bet",
+    "nameEn": "The 3-Bet",
+    "nameZh": "3-Bet",
+    "quoteLine1": "侵略要有计划。",
+    "quoteLine2": "范围守不住，就别先开火。"
+  },
+  {
+    "id": "fold",
+    "nameEn": "The Fold",
+    "nameZh": "弃牌",
+    "quoteLine1": "纪律胜过自尊。",
+    "quoteLine2": "高手弃牌比你以为的多得多。"
+  },
+  {
+    "id": "value_bet",
+    "nameEn": "The Value Bet",
+    "nameZh": "价值下注",
+    "quoteLine1": "在他们能跟更差牌时下注。",
+    "quoteLine2": "只有更强牌跟注时，你在烧筹码。"
+  }
+]
