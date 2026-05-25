@@ -94,7 +94,11 @@ export default function ResultPage() {
 
       <div className="space-y-5">
         <ResultSection title="牌魂类型" step={1}>
-          <SoulAvatar suit={soulType.symbol} />
+          <SoulAvatar
+            soulTypeId={soulType.id}
+            suit={soulType.symbol}
+            alt={soulType.nameZh}
+          />
           <div className="text-center">
             <p className="font-display text-2xl font-bold text-casino-gold">
               {soulType.nameZh}

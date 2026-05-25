@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Kill stale Next.js dev servers and clear corrupted .next cache
+# Kill stale Next.js dev servers, clear .next cache, start on LAN (0.0.0.0)
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
@@ -17,12 +17,11 @@ sleep 1
 echo "Removing .next cache..."
 rm -rf .next
 
-PORT=3000
+export PORT=3000
 if lsof -ti :3000 >/dev/null 2>&1; then
   echo "Port 3000 still in use — using 3002 instead."
   echo "Close other terminals running 'npm run dev', or run: kill -9 \$(lsof -ti :3000)"
-  PORT=3002
+  export PORT=3002
 fi
 
-echo "Starting dev server at http://127.0.0.1:${PORT}"
-exec npx next dev -H 127.0.0.1 -p "${PORT}"
+exec bash scripts/dev-network.sh

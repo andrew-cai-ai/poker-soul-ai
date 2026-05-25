@@ -36,6 +36,31 @@ npm run dev
 
 打开 http://localhost:3000
 
+开发服务器绑定 `0.0.0.0`，终端会打印本机与局域网地址。
+
+等价命令：
+
+```bash
+npm run dev -- --hostname 0.0.0.0
+```
+
+### Mobile testing
+
+- 手机和电脑连接**同一 WiFi**
+- 终端里找到 **Network** 一行（例如 `http://192.168.1.xxx:3000`）
+- 在手机浏览器打开：
+
+  `http://[local-ip]:3000/fortune`
+
+- 若无法访问：检查 Mac 防火墙是否允许 Node，或换 `npm run dev:clean` 重启
+
+示例：
+
+```
+Local:   http://localhost:3000
+Network: http://192.168.1.42:3000
+```
+
 ## 部署
 
 推送到 GitHub 后导入 Vercel 即可。

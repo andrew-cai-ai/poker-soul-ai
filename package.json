@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -H 127.0.0.1 -p 3000",
+    "dev": "bash scripts/dev-network.sh",
     "dev:clean": "bash scripts/dev-clean.sh",
     "build": "next build",
-    "start": "next start -H 127.0.0.1 -p 3000",
+    "start": "next start -H 0.0.0.0 -p 3000",
     "start:clean": "rm -rf .next && npm run build && npm run start",
     "lint": "next lint"
   },
